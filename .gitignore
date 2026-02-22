@@ -1,0 +1,10 @@
+# Security
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
